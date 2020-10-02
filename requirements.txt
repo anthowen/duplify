@@ -106,7 +106,7 @@ tqdm==4.23.4
 
 unicodecsv==0.14.1
 
-urllib3==1.22
+urllib3==1.25.9
 
 virtualenv==16.0.0
 
