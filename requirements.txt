@@ -72,7 +72,7 @@ pluggy==0.6.0
 
 psycopg2==2.7.4
 psycopg2-binary==2.7.4
-py==1.5.3
+py==1.10.0
 
 pyasn1==0.4.3
 
