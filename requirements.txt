@@ -88,7 +88,7 @@ python-dateutil==2.7.3
 
 pytz==2018.3
 
-PyYAML==3.12
+PyYAML==5.4
 
 range-key-dict==1.1.0
 
