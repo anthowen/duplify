@@ -22,7 +22,7 @@ django-autocomplete-light==3.2.10
 
 django-coverage==1.2.4
 
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 
 django-filter==1.1.0
 
